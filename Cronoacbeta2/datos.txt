@@ -1,7 +1,0 @@
-en esta version 2, se corrigieron fallos/glichs de visualización, en la pagina principal daba errores como tener el login debajo al scrollear.
-aun sigue teniendo problemas con el llamamiento de las rutas.
-la pagina de los miembros se encotraria en esta dirección
-http://localhost/Cronoacbeta/vistas/paginas/miembros.php
-
-esto debe estar en la carpeta de htdoc para poder verlo (dentro de tu localhost)
-para que pueda servir recuerda cambiar la contraseña de tu localhost en modelos/conexión.php
